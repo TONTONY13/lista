@@ -1,0 +1,25 @@
+# EXTM3U
+#EXTINF: -1, canal 1
+https://tv.teleclub.xyz/avve/senal-en-directo?club=CARTOON&format=.m3u8
+#EXTINF: -1, canal 2
+https://tv.teleclub.xyz/avve/senal-en-directo?club=DISNEY&format=.m3u8
+#EXTINF: -1, canal 3
+https://tv.teleclub.xyz/avve/senal-en-directo?club=TEENNICK&format=.m3u8
+#EXTINF: -1, canal 4
+https://tv.teleclub.xyz/avve/senal-en-directo?club=CNNESPANOL&format=.m3u8
+#EXTINF: -1, canal 5
+https://tv.teleclub.xyz/avve/senal-en-directo?club=ADN40&format=.m3u8
+#EXTINF: -1, canal 6
+https://tv.teleclub.xyz/avve/senal-en-directo?club=TELEMUNDO&format=.m3u8
+#EXTINF: -1, canal 7
+https://tv.teleclub.xyz/avve/senal-en-directo?club=AZTECA1&format=.m3u8
+#EXTINF: -1, canal 8
+https://tv.teleclub.xyz/avve/senal-en-directo?club=AZTECA7&format=.m3u8
+#EXTINF: -1, canal 9
+https://tv.teleclub.xyz/avve/senal-en-directo?club=UNIVISION&format=.m3u8
+#EXTINF: -1, canal 10
+https://tv.teleclub.xyz/avve/senal-en-directo?club=LASESTRELLAS&format=.m3u8
+#EXTINF: -1, canal 11
+https://tv.teleclub.xyz/avve/senal-en-directo?club=ANIMALPLANET&format=.m3u8
+#EXTINF: -1, canal 12
+https://tv.teleclub.xyz/avve/senal-en-directo?club=DISCOVERY&format=.m3u8
